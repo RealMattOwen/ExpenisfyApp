@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="454fb36e-76be-43fa-81e8-8086f709f4dd" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -221,12 +222,12 @@
       <workItem from="1508169971274" duration="724000" />
       <workItem from="1508171349901" duration="10179000" />
       <workItem from="1508244638040" duration="1198000" />
-      <workItem from="1508258998706" duration="4291000" />
+      <workItem from="1508258998706" duration="4424000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173886000" />
+    <option name="totallyTimeSpent" value="174019000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
